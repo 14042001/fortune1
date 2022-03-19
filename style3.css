@@ -1,0 +1,34 @@
+#topbar
+{
+background-color:yellow;
+height:40px;
+width:100%;
+}
+#header
+{
+height:40px;
+}
+#header ul
+{
+float:right;
+}
+#header ul li 
+{
+display:inline;
+margin-right:40px;
+} 
+#header ul li  a
+{
+color:black;
+}
+#welcome img
+{
+height:500px;
+width:100%;
+}
+#photo img
+{
+height:500px;
+width:100%;
+border-radius:100%;
+}
